@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0, user-scalable=no">
-    <title>💕 A Special Question For MUNCHKIN 💕</title>
+    <title>💕 A Special Question For Munchkin 💕</title>
     <style>
         * {
             margin: 0;
@@ -578,11 +578,11 @@ filter: drop-shadow(0 0 15px rgba(255,215,0,0.8));
             <div class="card" id="mainCard">
                 <div class="big-heart">💖</div>
                 
-                <h1 class="title">Hey <span class="name-highlight">Khushi</span>! ✨</h1>
+                <h1 class="title">Hey <span class="name-highlight">Munchkin</span>! ✨</h1>
                 <p class="subtitle">I have something very special to ask you...</p>
                 
                 <h2 class="question">
-                    <span class="name-in-question">Khushi</span>, Will You Be My Valentine? 💕
+                    <span class="name-in-question">Munchkin</span>, Will You Be My Valentine? 💕
                 </h2>
                 
                 <div class="buttons-container" id="buttonsContainer">
